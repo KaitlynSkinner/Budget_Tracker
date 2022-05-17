@@ -9,20 +9,15 @@ As an avid traveler I want to be able to track my withdrawals and deposits with 
 
 
 ## Table of Contents
-  * [Features](#features)
   * [Technology Used](#technologyused)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Photos](#photos)
+  * [Deployed Application](#deployedapplication)
   * [License](#license)
   * [Credits](#credits)
   * [Contribute](#contribute)
   * [Tests](#tests)
   * [Questions](#questions)
-
-
-## Features
-
 
 
 ## Technology Used
@@ -40,20 +35,6 @@ As an avid traveler I want to be able to track my withdrawals and deposits with 
 
 * **MongoDB Atlas:** is a cloud-based database service that's created and maintained by MongoDB. It works with hosting services such as AWS, Azure, and Google Cloud to help users provision, maintain, and secure new databases for their applications.
 
-* **Google Lighthouse:** is a tool that helps improve the performance of web applications by providing audits for performance, accessibility, Progressive Web Apps, and more. It's included in Chrome DevTools.
-
-* **Webpack** is a module bundler for JavaScript that simplifies front-end web development by generating static assets from modules with dependencies and using plugins and loaders to help automate certain optimization strategies.
-
-* **The webpack-bundle-analyzer:** plugin allows you to visualize the size of webpack output files with an interactive zoomable treemap.
-
-* **The file-loader:** plugin resolves import/require() on a file into a URL and emits the file into the output directory.
-
-* **The image-webpack-loader:** plugin allows you to enhance your image-loading process.
-
-* **The SW-precache-webpack:** plugin allows you to use service workers to cache your external project dependencies. It will generate a service worker file, using sw-precache, and add it to the build directory.
-
-* **The webpack-PWA-manifest:** plugin generates a manifest.json for your PWA, with auto icon resizing and fingerprinting support.
-
 
 ## Installation
 Download or clone the repository URL
@@ -68,24 +49,8 @@ To install packages run the following command:
  Once installed, type ```npm start``` to run the application.
 
 
-## Photos
- **Current Application Screenshots**
-** **
-![Deployed Application](https://github.com/KaitlynSkinner/Social_Network_API/blob/b996a423efbe483c94152554fad582f3e097ad30/assets/images/GET-api-users.png?raw=true)
-** **
-![Deployed Application](https://github.com/KaitlynSkinner/Social_Network_API/blob/b996a423efbe483c94152554fad582f3e097ad30/assets/images/GET-api-thoughts.png?raw=true) 
- ** **
-![Deployed Application](https://github.com/KaitlynSkinner/Social_Network_API/blob/b996a423efbe483c94152554fad582f3e097ad30/assets/images/GET-api-users-userId.png?raw=true)
-** **
-![Deployed Application](https://github.com/KaitlynSkinner/Social_Network_API/blob/b996a423efbe483c94152554fad582f3e097ad30/assets/images/GET-api-thoughts-thoughtId.png?raw=true)
-** **
-![Deployed Application](https://github.com/KaitlynSkinner/Social_Network_API/blob/b996a423efbe483c94152554fad582f3e097ad30/assets/images/POST-api-users.png?raw=true)
-** **
-![Deployed Application](https://github.com/KaitlynSkinner/Social_Network_API/blob/b996a423efbe483c94152554fad582f3e097ad30/assets/images/PUT-api-users-userId.png?raw=true)
-** **
-![Deployed Application](https://github.com/KaitlynSkinner/Social_Network_API/blob/b996a423efbe483c94152554fad582f3e097ad30/assets/images/DELETE-api-users-userId.png?raw=true)
-** **
- 
+## Deployed Application
+**App deployed to Heroku:** https://ancient-fortress-45000.herokuapp.com/ | https://git.heroku.com/ancient-fortress-45000.git
 
 ## License
 This application does not have a license. 
