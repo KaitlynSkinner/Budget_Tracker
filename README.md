@@ -35,6 +35,10 @@ As an avid traveler I want to be able to track my withdrawals and deposits with 
 
 * **MongoDB Atlas:** is a cloud-based database service that's created and maintained by MongoDB. It works with hosting services such as AWS, Azure, and Google Cloud to help users provision, maintain, and secure new databases for their applications.
 
+* **IndexedDB:** is a JavaScript application programming interface provided by web browsers for managing a NoSQL database of JSON objects.
+
+* **NoSQL:** provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. 
+
 
 ## Installation
 Download or clone the repository URL
